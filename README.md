@@ -1,2 +1,2 @@
 # curriculum-online
-Ferramenta para geração de cvs
+Ferramenta para geração de CVs
